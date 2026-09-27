@@ -11,3 +11,13 @@
 507  npx expo start --web
 508  history
 ```
+
+## 01 Mi primera pantalla — Nivel 1 • Guiado
+
+```
+510  npx create-expo-app@latest EJERCICIO-01 --template blank-typescript
+511  cd EJERCICIO-01/
+512  npx expo install react-dom react-native-web
+513  npx expo start --web
+514  history
+```
