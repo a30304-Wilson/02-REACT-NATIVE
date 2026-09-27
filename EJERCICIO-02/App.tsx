@@ -19,10 +19,10 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     padding: 24,
-    backgroundColor: '#eef2f7',
+    backgroundColor: '#052041',
   },
   card: {
-    backgroundColor: 'white',
+    backgroundColor: '#fde7d2',
     padding: 28,
     borderRadius: 20,
   },
@@ -30,6 +30,7 @@ const styles = StyleSheet.create({
     fontSize: 30,
     fontWeight: 'bold',
     textAlign: 'center',
+    color: '#cf4c00',
   },
   subtitle: {
     marginTop: 10,
@@ -39,7 +40,7 @@ const styles = StyleSheet.create({
   },
   button: {
     marginTop: 24,
-    backgroundColor: '#2563eb',
+    backgroundColor: '#e7661b',
     padding: 15,
     borderRadius: 12,
   },
