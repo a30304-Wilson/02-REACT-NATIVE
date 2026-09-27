@@ -1,6 +1,6 @@
 # EVIDENCIAS
 
-## 00 Inicio — Configuración
+## 00 - Inicio
 
 ```
 502  node -v
@@ -12,7 +12,7 @@
 508  history
 ```
 
-## 01 Mi primera pantalla — Nivel 1 • Guiado
+## 01 - Mi primera pantalla
 
 ```
 510  npx create-expo-app@latest EJERCICIO-01 --template blank-typescript
@@ -21,3 +21,17 @@
 513  npx expo start --web
 514  history
 ```
+
+## 02 - Tarjeta de bienvenida
+
+´´´
+502  npx create-expo-app@latest EJERCICIO-02 --template blank-typescript
+503  cd EJERCICIO-02
+504  npx expo install react-dom react-native-web
+505  npx expo start --web
+506  cd ..
+512  git add .
+513  git commit -am "Ejercicio 02 - Tarjeta de bienvenida"
+514  git push
+515  history
+´´´
