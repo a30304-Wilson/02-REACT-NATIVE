@@ -1,0 +1,13 @@
+# EVIDENCIAS
+
+## 00 Inicio — Configuración
+
+```
+502  node -v
+503  npm -v
+504  npx create-expo-app@latest cuaderno-rn --template blank-typescript
+505  cd cuaderno-rn/
+506  npx expo install react-dom react-native-web
+507  npx expo start --web
+508  history
+```
