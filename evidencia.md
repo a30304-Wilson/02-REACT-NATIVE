@@ -49,3 +49,17 @@
 539  git push
 537  history
 ```
+
+## 04 - Pantalla de acceso
+
+```
+540  npx create-expo-app@latest EJERCICIO-04 --template blank-typescript
+541  npx expo install react-dom react-native-web
+542  cd EJERCICIO-04
+543  npx expo install react-dom react-native-web
+544  npx expo start --web
+545  git add .
+546  git commit -m "Ejercicio 03 - Ficha de perfil"
+547  git push
+548  history
+```
