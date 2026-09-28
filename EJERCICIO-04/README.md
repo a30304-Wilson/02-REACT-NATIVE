@@ -1,9 +1,10 @@
 # Ejercicio 04 - Pantalla de acceso
 
 ## Qué he aprendido
-- Cómo crear campos de entrada de texto con TextInput.
 
-- Que Pressable es el componente que representa una zona pulsable en React Native.
+- Cómo diseñar inputs.
+- Cómo representar un botón con Pressable.
+- Cómo diferenciar interfaz y lógica.
 
 ## Respuesta a la pregunta de comprensión
 ¿Por qué en este ejercicio no necesitamos todavía `useState`?
@@ -18,6 +19,7 @@ Porque useState sirve para guarrdar valores que cambian, como lo que escribe el 
 - Añadí un Text centrado debajo del botón con "¿No tienes cuenta? Regístrate".
 
 ## Resultado
+
 Explica brevemente cómo ha quedado la interfaz.
 
 La pantalla muestraa un título, un subtítulo, dos campos (correo y contraseña oculta), un botón azul de "Iniciar sesión" y, debajo el texto de registro centrado en gris.

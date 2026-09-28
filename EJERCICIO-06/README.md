@@ -2,9 +2,9 @@
 
 ## Qué he aprendido
 
-- `flexWrap: 'wrap'` deja que las tarjetas pasen a una nueva línea cuando no caben.
-
-- Con `flexDirection: 'row'`, `flexWrap: 'wrap'` y `width: '48%'` se crea un grid de dos columnas.
+- Cómo crear un grid con Flexbox.
+- Cómo usar flexWrap.
+- Cómo organizar métricas visuales.
 
 ## Respuesta a la pregunta de comprensión
 

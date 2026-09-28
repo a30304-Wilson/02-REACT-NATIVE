@@ -2,11 +2,9 @@
 
 ## Qué he aprendido
 
-- `overflow: 'hidden'` recorta la imagen para que respete las esquinas redondeadas de la tarjeta.
-
-- `flexDirection: 'row'` coloca elementos en fila, y `justifyContent: 'space-between'` los separa hacia los extremos.
-
-- `alignItems: 'center'` alinea verticalmente los elementos de la fila.
+- Cómo componer una tarjeta de producto.
+- Cómo usar space-between.
+- Cómo controlar el recorte visual con overflow.
 
 ## Respuesta a la pregunta de comprensión
 
@@ -18,7 +16,7 @@ El nombre del producto, seguido por el precio. El nombre indica qué se está vi
 
 ## Qué he modificado
 
-- He cambiado la categoría de "TECNOLOGÍA" a "OFERTA", como en el preview.
+- He añadido una etiqueta "OFERTA" como en el preview.
 
 ## Resultado
 

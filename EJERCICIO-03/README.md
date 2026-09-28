@@ -1,11 +1,10 @@
 # Ejercicio 03 - Ficha de perfil
 
 ## Qué he aprendido
-- Cómo mostrar una imagen remota con Image, y que a diferencia de la web, en React Native hay que indicar siempre width y height para que la imagen se muestre.
 
-- Se puede conseguir un circulo dando a la imagen un `borderRadius` igual a la mitad de su ancho/alto.
-
-- Que por defecto los elementos de un View se apilan en columna, y flexDirection: 'row' cambia esa distribución a fila.
+- Cómo mostrar imágenes.
+- Cómo crear avatares circulares.
+- Cómo distribuir elementos en horizontal.
 
 ## Respuesta a la pregunta de comprensión
 
@@ -17,7 +16,7 @@ Aplicaría flexDirection: 'row' en el View contenedor que envuelve a las estadí
 
 ## Qué he modificado
 
-- Añadí una tercera estadística dentro del View con estilo stats. Añadí el bloque "86 Contactos", tal y como aparece en el preview de referencia, respetando el mismo gap y sin necesidad de tocar flexDirection ni alignItems.
+- Añadi una tercera estadística nos pedian.
 
 ## Resultado
 
