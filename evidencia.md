@@ -63,3 +63,13 @@
 547  git push
 548  history
 ```
+
+## 05 - Tarjeta de Producto
+
+```
+51  npx create-expo-app@latest EJERCICIO-05 --template blank-typescript
+52  cd EJERCICIO-05/
+53  npx expo install react-dom react-native-web
+54  npx expo start --web
+55  history
+```
